@@ -1,5 +1,5 @@
+package exercicios00fixacao;
 import java.util.stream.IntStream;
-
 public class exerc1 {
     public static void main(String[] args){
         int i;

@@ -1,4 +1,5 @@
-//Faltorial
+package exercicios00fixacao;
+//Fatorial
 import java.util.Scanner;
 public class exerc2{
     public static void main (String[] args){
@@ -11,5 +12,6 @@ public class exerc2{
             fat*=i;
         }
         System.out.println(n+"! = "+fat);
+        scan.close();
     }
 }
