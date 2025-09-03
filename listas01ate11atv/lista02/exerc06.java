@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 6: construir um programa em Java que leia o salário bruto e o sexo de um funcionário.
 Se o sexo for “M” (masculino), calcular, armazenar e imprimir um desconto de 5% e o salário
 líquido, caso contrário, calcular, armazenar e imprimir um desconto de 3% e o salário líquido. */

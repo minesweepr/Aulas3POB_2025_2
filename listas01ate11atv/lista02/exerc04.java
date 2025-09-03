@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 4: construir um programa em Java que leia um número inteiro e imprima “PAR”, se o
 número for par e imprima “ÍMPAR”, se o número for ímpar. */
 import java.util.Scanner;

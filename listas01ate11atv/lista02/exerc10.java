@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 10: construir um programa em Java que leia o ano de nascimento e o sexo de uma
 pessoa e que calcule a sua idade aproximada. Se o sexo for igual a “M” (masculino) e a idade for
 igual a 18, imprimir “Serviço Militar Obrigatório”, caso contrário, imprimir “Isento de Serviço

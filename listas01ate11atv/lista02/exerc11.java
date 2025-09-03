@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 11: construir um programa em Java que leia os valores de A, B e C e que imprima
 “Não forma triângulo”, se um dos valores for maior que a soma dos outros 2, caso contrário,
 imprimir “Forma triângulo”. */

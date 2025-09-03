@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 8: construir um programa em Java que leia a quantidade de disciplinas em que um
 aluno não alcançou a média. Se a quantidade for igual a 0, imprimir “Aprovado”, se a quantidade
 for menor ou igual a 5, imprimir “Recuperação” e se a quantidade for maior que 5, imprimir

@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 1: construir um programa em Java que leia a idade de uma pessoa e imprima “Maior
 de idade”, se a idade lida for maior ou igual a 18.*/
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 7: construir um programa em Java que leia um número inteiro e imprima “Positivo”,
 se o número lido for maior que 0, imprima “Negativo”, se o número lido for menor que 0 e
 imprima “Nulo”, se o número lido for igual a 0. */

@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 9: construir um programa em Java que leia as 2 notas de um aluno e que calcule,
 armazene e imprima a média. Se a média for maior ou igual a 7, imprimir “Aprovado”, caso
 contrário, realizar a leitura de uma terceira nota, que terá peso 2 e calcular, armazenar e imprimir

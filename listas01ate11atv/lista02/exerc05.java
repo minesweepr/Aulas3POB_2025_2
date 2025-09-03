@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 5: construir um programa em Java que leia o ano de nascimento de uma pessoa e que
 calcule a sua idade aproximada. Se a idade aproximada for maior ou igual a 16, imprimir “Apto
 a ser eleitor”, imprimir “Inapto a ser eleitor”, caso contrário. */

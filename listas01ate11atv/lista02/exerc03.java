@@ -1,4 +1,4 @@
-package lista01atv;
+package listas01ate11atv.lista02;
 /*Exercício 3: construir um programa em Java que leia 2 números inteiros e imprima o maior
 número lido. */
 import java.util.Scanner;
